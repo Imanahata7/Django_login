@@ -1,0 +1,83 @@
+body{
+  background-image: url("https://nuwallpaperhd.info/wp-content/uploads/2018/01/Best-Beautiful-Maldives-Wallpaper.jpg");
+}
+table{
+  font-family: 'Special Elite', cursive;
+  text-shadow: 2px 2px 5px red;
+}
+
+#g{
+  background-color: #FFFFFF;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#o{
+  background-color: #FA7921;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#d{
+  background-color: #9BC53D;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#s{
+  background-color: #FFA69E;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+
+#p{
+  background-color: #FF686B;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#a{
+  background-color: #F9DC5C;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#r{
+  background-color: #FF8811;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#a{
+  background-color: #FC7753;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#d{
+  background-color: #9DD9D2;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#i{
+  background-color: #044389;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#s{
+  background-color: #FFA69E;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+#e{
+  background-color: #9DD9D2;
+  height: 70px;
+  width: 50px; font-size: 50px; border-radius: 10px;
+}
+.login{
+  height: 350px; width: 300px; margin: auto;
+  font-family: 'PT Sans', sans-serif; border-radius: 10px; font-size: 20px;
+  background-color: #0547AA;
+}
+.detail{
+  font-size: 15px; text-decoration-color: #5261E7; padding-left: 15px;
+}
+#ins{
+  padding-left: 15px; text-decoration-color: #9DD9D2;
+}
+input{
+  background-color: #A9ED84; border-radius: 10px;
+}
